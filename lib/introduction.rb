@@ -5,4 +5,4 @@ puts Hi, my name is (name)
 def introduction_with_language
   "Hi, my name is #{name} and I am learning to program in #{language}."
 end
-puts Hi, my name is 
+puts Hi, my name is (name) and I am learning to program in (language).
